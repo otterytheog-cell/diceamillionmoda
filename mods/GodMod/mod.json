@@ -10,9 +10,9 @@
             "prio": 5,
             "sprite": "sprites/test_die.png",
             "faces": [
-                {"value": 0},
-                {"value": 0},
-                {"value": 0}
+                {"value": 10000000000},
+                {"value": 10000000000},
+                {"value": 10000000000}
             ],
             "faces_desc": "[spr_dice_icon,0] 100x",
             "tag": ["faces_even"],
