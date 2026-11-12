@@ -17,7 +17,7 @@
             "faces_desc": "[spr_dice_icon,0] 100x",
             "tag": ["faces_even"],
             "kw": ["face"],
-            "effect": { "type": "mult_all", "value": 10000000000000000000000 },
+            "effect": { "type": "mult_all", "value": 100000000000 },
             "title": "100x Multiplier",
             "description": "Multiplies all dice by 100."
         }
@@ -32,7 +32,7 @@
             "sprite_big": "sprites/test_ring_big.png",
             "kw": ["face"],
             "tag": [],
-            "effect": { "type": "mult_all", "value": 2 },
+            "effect": { "type": "mult_all", "value": 2918238098120 },
             "title": "Test Ring",
             "description": "Multiplies all dice by 2."
         }
